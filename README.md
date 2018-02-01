@@ -10,6 +10,6 @@
 
 ![img](./img/qrcode.jpg)
 
-#History
+# History
 
 1. 2018-2-1 20:10:01 纠正加密方式错误，添加strust、json等项。
